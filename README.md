@@ -8,9 +8,9 @@ Rock Paper Scissors is a two player game.
 Each player chooses one of rock, paper or scissors, without knowing the other player's choice.
 
 The winner is decided by a set of rules:  
-  Rock beats scissors  
-  Scissors beats paper  
-  Paper beats rock  
+  * Rock beats scissors  
+  * Scissors beats paper  
+  * Paper beats rock  
 
 If both players choose the same thing, there is no winner for that round.
 
